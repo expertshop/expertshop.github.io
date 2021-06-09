@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Seymour+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+#name_shop {
+	font-family: 'Seymour One', sans-serif;
+}
+
+#name {
+	font-family: 'Staatliches', cursive;
+}
